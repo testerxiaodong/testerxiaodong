@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [next-shop-admin](https://github.com/testerxiaodong/next-shop-admin)
 
-- 🌱 I’m currently learning **K6/Appium/Playwright**
+- 🌱 I’m currently learning **K6、Appium、Playwright**
 
 - 👯 I’m looking to collaborate on [next-shop-admin](https://github.com/testerxiaodong/next-shop-admin)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.tech-hamster.site/](https://www.tech-hamster.site/)
 
-- 💬 Ask me about **Playwright/pytest**
+- 💬 Ask me about **Playwright、Pytest**
 
 - 📫 How to reach me **applecengdong@gmail.com**
 
